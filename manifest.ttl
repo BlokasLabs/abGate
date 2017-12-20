@@ -7,13 +7,3 @@
 	lv2:binary <gate.so>;
 	rdfs:seeAlso <gate.ttl>.
 
-<http://hippie.lt/lv2/gate/guiQt4>
-	a ui:Qt4UI;
-	ui:binary <libabGateQt.so>;
-	rdfs:seeAlso <gate.ttl>.
-
-<http://hippie.lt/lv2/gate/gui>
-	a ui:GtkUI;
-	ui:binary <gate_gui.so>;
-	rdfs:seeAlso <gate.ttl>.
-
